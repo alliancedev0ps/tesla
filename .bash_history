@@ -1,247 +1,3 @@
-q
-  clear
-sudo vi /ets/shadow
-+-
-~
-whereis
-whereis ll
-whereis ls
-whereis whoami
-free -h
-du
-df
-df -h
-cat /home
-ls /
-ll -ltr /etc/group
-ll -ltr /etc/shadow
-sudo -u root groupadd managers
-sudo -u root groupadd developers
-ll -ltr /etc/shadow
-grep /home
-ls cat -n /home
-ll -ltr /etc/shadow
-ll groupadd
-sudo ll -ltr groupadd
-cat /etc/shadow
-sudo cat /etc/shadow
-cat -n /etc/shadow
-sudo cat-n /etc/shadow
-ll -a 
-vi /etc/shadow
-sudo vi /etc/sudoers
-sudo usermod -G root managers dominion 
-sudo usermod -g root developers success
-chage
-who
-whereis
-whereis group
-ll -ltr /etc/group
-ls /etc/group
-whoami
-date
-df -h
-ls -a
-du
-df
-free -h
-cp /etc/sudoers
-cp --
-mv config
-ls /home
-cp /etc/sudoers
-mv config.backup
-curl ifconfig.co
-passwd -u paul
-chage paul
-sudo -i paul
-cat /etc/passwd
-sudi -i simon
-sudo -i simon
-sudo -i Simon
-tail -5 /etc/passwd
-sudo -i simon
-chage simon
-sudo chage simon
-sudo -i
-exit
-sudo hostname webserver
-ll
-exit
-ls -l
-ls
-mkdir best2022
-ls -l
-rm-r best2022
-rmdir best2022
-ls -l
-clear
-mkdir -p landmark logs tdclient.team test.txt
-ls -l
-mkdir best2022 config.xml config.xml_backup conquer dd
-ls -l
-chmod 400 ec2-user
-whois env
-cat/etc/password
-ll /home
-whois env
-echo env
-whois env
-cat /etc/shadow
-sudo cat /etc/shadow
-clear
-export HISTSIZE
-echoHISTSIZE
-eco HISTSIZE
-echo HISTSIZE
-echo $HISTSIZE 80
-export $ HISTSIZE 1100
-export HISTSIZE 2000
-echo $HISTSIZE
-ls -a
-sudo "export HISTSIZE=1500"
-echo $HISTSIZE
-ssh_config
-cat ssh_config
-cat/etc/shells
-touch
-ls
-pwd
-touch test.txt
-ls
-touch class28
-ls
-cat /etc/passwd
-tail -4clear
-clear
-tail -4 /etc/passwd
-sudo hostname simon
-ll
-ls
-touch cloud.sh
-ls
-ll
-chmod + cloud.sh
-vim cloud.sh
-vi cloud.sh
-sh cloud.sh
-chmod +x cloud.sh
-ll
-clear
-si cloud.sh
-vi cloud.sh
-ll
-userdel cloud.sh
-sudo -u userdel cloud.sh
-clear
-ll
-echo shell.sh
-ll
-echo shell.sh
-ll
-ls
-rm -r cloud.sh
-ls
-clear
-echo shell.sh
-ll
-echo hello.sh
-ll
-yum install vim
-sudo yum install
-clear
-echo cloud.shell
-ll
-clear
-touch shell.sh
-ll
-chmod -x shell.sh
-ll
-vi shell.sh
-sh shell.sh
-vi shell.sh
-ps
-vim
-sudo yum install vim
-vim shell.sh
-sh shell.sh
-cat -n shell.sh
-vim shell.sh
-clear
-ls
-mv shell.sh trial.sh
-ls
-vim trial.sh
-sh trial.sh
-bash trial.sh
-pwd
-./trial.sh
-sudo ./trial.sh
-killall
-ls
-cat trial.sh
-vim trial.sh
-cat trial.sh
-sh trial.sh
-vi trial.sh
-cat trial.sh
-sh trial.sh
-vim escape.sh
-cat -n escape.sh
-vim escape.sh
-vi deploy.sh
-ll
-sh. trial.sh
-chmod +x trial.sh
-sudo chmod +x trial.sh 
-ll
-sh. trial.sh
-vi trial.sh
-cat trial.sh
-sh trial.sh
-vim escape.sh
-cat escape.sh
-sh escape.sh
-sudo yum install tsh
-sudo yum install tsh -y
-ksh deploy.sh
-ll
-vim escape.sh
-cat -n slc.sh
-cat escape.sh
-vim escape
-clar
-clear
-ll
-clear
-vim escape.sh
-cat -n slc.sh
-ll
-hostname ec-user
-sudo hostname ec2-user
-ll
-cat -n slc.sh
-sh escape.sh
-vim escape.sh
-sh escape.sh
-clear
-sh escape.sh
-ll
-touch deploy.sh
-clear
-ll
-sudo chmod +x deploy.sh
-ll
-vim deploy.sh
-cat deploy.sh
-sh escape.sh
-clear
-cat -n scl
-ls
-userdel conquer logs dd
-ll ltr
-ll -ltr
-sudo -u root userdel dd logs conquer
 ll
 sudo rm -r log conquer dd 
 ll
@@ -998,3 +754,247 @@ sudo yum update
 clear
 df -m
 du -m
+ll
+clear
+git status
+sudo yum install git
+git
+ls
+cd tesla/
+pwd
+ls
+vi list.java
+git status
+git add .
+git show
+git commit -m list.java
+git commit -m "users list created"
+git log
+git show
+ls
+git push ta master
+git push ta master
+git push https://github.com/alliancedev0ps/tesla
+git log
+git sshow
+git show
+git push ta master
+git commit -m https://github.com/alliancedev0ps/tesla
+git commit
+git pull a master
+git pull ta master
+git pull https://github.com/alliancedev0ps/tesla
+git log
+cat app.py
+git pull ta master
+git fetch ta master
+git fetch https://github.com/alliancedev0ps/tesla/tree/master
+git fetch ta master
+git fetch https://github.com/alliancedev0ps/tesla
+git show
+ls
+git diff
+git diff ta/master
+git diff ta/master
+git merge
+git fetch https://github.com/alliancedev0ps/tesla
+git diff
+git pull https://github.com/alliancedev0ps/tesla
+git merge https://github.com/alliancedev0ps/tesla
+git diff
+touch app-server && mkdir grate.app
+ls -a
+touch .gitignore
+mv grate.app .gitignore
+git status
+touch .classpath
+mv .project .gitignore
+cat .gitignore
+git add .
+git commit -m "git ignore created"
+git log
+git show
+cat .git ignore
+cat .gitignore
+mv .classpath .git ignore
+mv .classpath .gitignore
+mv app-server .gitignore
+cat .gitignore
+git clone
+git branch
+git branch dev
+git branch
+ls
+git status
+git checkout
+git branch
+git commit -a
+git push ta master
+git push https://github.com/alliancedev0ps/tesla
+git status
+git branch
+git branch dev
+ls
+git status
+git checkout dev
+git branch
+vi deply.sh
+git commit
+git add .
+git commit
+git push ta/master
+git push ta master
+git log
+git show
+git branch
+git diff dev
+git merge dev
+git merge dev "reviewed and approved"
+git commit -a -m "deployment done"
+git status
+git diff
+git merge dev
+git merge dev -m
+git commit -m 
+git status
+sudo yum install maven -y
+sudo yum upgrade (-version -- 3.6.0)
+sudo yum upgrade -version -- 3.6.0
+yum upgrade maven
+sudo yum upgrade maven
+yum upgrade (-version -- 3.6.0) 
+mvn -version -- 3.6.0 
+sudo yum upgrade -version -- 3.6.0
+ll
+ls
+su simon
+ll
+ls
+clear
+sudo simon
+ll
+cd /etc/password
+cat /etc/password
+ll -ltr /etc/passwd
+chmod +x /etc/passwd
+ll
+ll /etc/passwd
+ls /etc/passwd
+ll
+ll -ltr
+cat /
+ls /home
+ls /simon
+ls simon
+sudo ls simon
+chmod +x simon
+ll
+clear
+mkdir tesla
+ls
+git branch
+git commit
+vi list
+vi app.py
+python3 app.py
+vi app.py
+python3 app.py
+vi app.py
+python3 app.py
+git status
+ls
+.git
+vi app.py
+python3 app.py
+ls
+git status
+ls -a
+hostname tesla
+sudo hostname tesla
+ls -a
+sudo su
+ls -a
+chmod +x simon
+ll /etc/passwd
+cat /etc/passwd
+chmod +x simon
+ls
+git init
+git add
+git config
+git commit
+git statis
+git status
+git commit
+git commit
+git commit
+clear
+git add.
+yum install -y git
+sudo yum istall git
+sudo -y yum install git
+sudo yum install git
+git commit
+git status
+git add app.py
+git status
+git status
+git add .
+sudo git add .
+ls .git
+git add .
+git status
+git commit -m
+git log
+git show Cid
+git show
+touch deploy.sh
+vi deploy.sh
+touch server.sh
+vi touch.sh
+git status
+git ccommit
+git status
+git add .
+git init
+git status
+git commit -m 'deployment ready'
+git commit "deployment ready"
+vi server.sh
+git commit "deployment ready"
+git log
+git show
+vi deploy.sh
+vi deply.sh
+git commit
+git add .
+git status
+git init
+git show
+git add .
+git add deply.sh
+git commit -m "deployment ready"
+git  show
+git log
+git show
+clear
+ls -a
+git init
+git status
+git remote add ta https://github.com/alliancedev0ps/tesla
+git push ta
+git push ta master
+git push ta master
+git push ta master
+git pull
+git branch ta master
+git push ta master
+git pull
+git branch ta master
+git push ta master
+git push ta master
+clear
+git commit
+git log
+git show
+sudo su simon
