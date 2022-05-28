@@ -3,4 +3,6 @@ deploy python app
 delopy in the dev env
 deployment5 master
 deloyment4
-deploy to stating
+deploy to statin
+echo good job
+tested and accepted
