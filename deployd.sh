@@ -9,6 +9,9 @@ deployment4
 deploy to staging env
 echo good job
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> bafe6b9 (dynatrice added for APM)
+=======
 >>>>>>> bafe6b9 (dynatrice added for APM)
 =======
 >>>>>>> bafe6b9 (dynatrice added for APM)
